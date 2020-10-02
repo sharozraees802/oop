@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using AccessSpecifier.model.studentmanagement;
+using mylibrary;
 
 namespace AccessSpecifier
 {
@@ -14,7 +15,8 @@ namespace AccessSpecifier
             //student std = new student();
             //libary lb = new libary();
             //lb.show(10);
-            
+            person p = new person();
+            p.
             Console.ReadLine();
         }
     }
